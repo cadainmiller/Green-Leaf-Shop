@@ -6,7 +6,7 @@
 }
 
 .bg-cover {
-  background-image: url("../img/Home\ page\ banner.png");
+  background-image: url("../img/Homepagebanner.png");
   background-size: cover;
   color: rgb(0, 0, 0);
   background-position: center center;
@@ -14,7 +14,7 @@
   z-index: -2;
 }
 .bg-cover-shop {
-  background-image: url("../img/shop\ page\ banner.png");
+  background-image: url("../img/shoppagebanner.png");
   background-size: cover;
   color: rgb(0, 0, 0);
   background-position: center center;
